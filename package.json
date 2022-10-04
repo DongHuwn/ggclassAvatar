@@ -1,0 +1,10 @@
+{
+  "name": "test-recode",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "playwright": "^1.26.1"
+  }
+}
